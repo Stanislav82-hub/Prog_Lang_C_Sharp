@@ -1,0 +1,15 @@
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\bin\Debug\net6.0\Project_1_HalloWorld.exe
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\bin\Debug\net6.0\Project_1_HalloWorld.deps.json
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\bin\Debug\net6.0\Project_1_HalloWorld.runtimeconfig.json
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\bin\Debug\net6.0\Project_1_HalloWorld.dll
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\bin\Debug\net6.0\Project_1_HalloWorld.pdb
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.csproj.AssemblyReference.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.AssemblyInfoInputs.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.AssemblyInfo.cs
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.csproj.CoreCompileInputs.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.dll
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\refint\Project_1_HalloWorld.dll
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.pdb
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\Project_1_HalloWorld.genruntimeconfig.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_1_HalloWorld\obj\Debug\net6.0\ref\Project_1_HalloWorld.dll
