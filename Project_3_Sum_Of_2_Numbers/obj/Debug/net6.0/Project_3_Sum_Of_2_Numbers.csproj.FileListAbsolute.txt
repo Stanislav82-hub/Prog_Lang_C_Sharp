@@ -1,0 +1,15 @@
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.csproj.AssemblyReference.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.GeneratedMSBuildEditorConfig.editorconfig
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.AssemblyInfoInputs.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.AssemblyInfo.cs
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.csproj.CoreCompileInputs.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\bin\Debug\net6.0\Project_3_Sum_Of_2_Numbers.exe
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\bin\Debug\net6.0\Project_3_Sum_Of_2_Numbers.deps.json
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\bin\Debug\net6.0\Project_3_Sum_Of_2_Numbers.runtimeconfig.json
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\bin\Debug\net6.0\Project_3_Sum_Of_2_Numbers.dll
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\bin\Debug\net6.0\Project_3_Sum_Of_2_Numbers.pdb
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.dll
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\refint\Project_3_Sum_Of_2_Numbers.dll
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.pdb
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\Project_3_Sum_Of_2_Numbers.genruntimeconfig.cache
+F:\GitHub\Introduction_Prog_Lang_C#\Project_3_Sum_Of_2_Numbers\obj\Debug\net6.0\ref\Project_3_Sum_Of_2_Numbers.dll
