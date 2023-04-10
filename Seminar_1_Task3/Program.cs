@@ -2,11 +2,12 @@
 
 //int i = 11;
 //System.Console.WriteLine(i % 3);
-Console.WriteLine("Введите число:");   
+Console.WriteLine("Please fill in a number:");   
 int a = int.Parse(Console.ReadLine());
-for (int b = -a; b < a ; b++)
+for (int b = -a; b <= a ; b++)
 {
     Console.Write(b+" ");
+    // Console.Write($"{b} ")
 } 
 
 
