@@ -1,12 +1,14 @@
 ﻿// Напишите программу, которая выводит случайное число из отрезка [10, 99] и показывает наибольшую цифру числа.
 
 System.Console.WriteLine("min ");
-int min = ReadInt;
+int min = ReadInt();
 
 System.Console.WriteLine("max ");
-int max = ReadInt;
+int max = ReadInt();
 
-int number = GetRandomNumber;
+int number = GetRandomNumber(min, max);
+
+System.Console.WriteLine(number);
 
 if(GetFirstDigit(number) > GetSecondDigit(number))
 {
@@ -16,6 +18,7 @@ else
 {
     Console.WriteLine("Second is bigger");
 }
+
 
 int GetRandomNumber(int min, int max)
 {
