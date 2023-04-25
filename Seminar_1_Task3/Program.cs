@@ -1,7 +1,6 @@
-﻿//for (int i = 0; i < 10; i++) сосотоит из инициализации счетчика; условия; прирощение(увиличение) счетчика
+﻿//Задача 5. Напишите программу, которая на вход принимает одно число (N), а на выходе показывает все
+// целые числа в промежутке от -N до N.
 
-//int i = 11;
-//System.Console.WriteLine(i % 3);
 Console.WriteLine("Please fill in a number:");   
 int a = int.Parse(Console.ReadLine());
 for (int b = -a; b <= a ; b++)

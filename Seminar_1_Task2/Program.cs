@@ -1,4 +1,6 @@
-﻿string Day1 = "Monday";
+﻿// Задача 3. Напишите программу, которая будет выдавать название дня недели по заданному номеру.
+
+string Day1 = "Monday";
 string Day2 = "Tuesday";
 string Day3 = "Wednesday";
 string Day4 = "Thursday";
