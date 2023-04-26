@@ -2,14 +2,27 @@
 //7 -> 28
 //4 -> 10
 //8 -> 36
+
+
 Console.Write("Hello, give me a number \t");
 int number = int.Parse(Console.ReadLine());
 
-for (int i = 1; i < number; i++ )
+Console.Write(SumOfDigits(number));
+
+
+/* int FillInNumber()
 {
-    Console.Write(i);
+    Console.Write("Hello, give me a number \t");
+    int number = int.Parse(Console.ReadLine());
+    return number;
+} */
+
+int SumOfDigits(int number)
+{
+    int result = 0;
+    for (int i = 1; i <= number; i++)
+    {
+        result += i;
+    }
+    return result;
 }
-int newNumber = 
-//string text = i.ToString();
-//Console.Write(text);
-Console.Write(newNumber);
