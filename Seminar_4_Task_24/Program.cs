@@ -3,7 +3,6 @@
 //4 -> 10
 //8 -> 36
 
-
 Console.Write("Hello, give me a number \t");
 int number = int.Parse(Console.ReadLine());
 
