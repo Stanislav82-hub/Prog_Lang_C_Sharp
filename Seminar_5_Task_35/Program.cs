@@ -45,3 +45,4 @@ int CountElement(int[] array)
 }
 
 NewRamdomArray();
+
